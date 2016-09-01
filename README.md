@@ -88,6 +88,42 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 - [Slides](http://slides.com/morganlaco/deck-2/live)
 - Links: ...
 
+#### Nerves: Connected beyond the Node by [Justin Schneck](https://twitter.com/mobileoverlord)
+
+- [Video](#)
+- [Slides](#)
+- Links: ...
+    
+#### Selling Food With Elixir by [Chris Bell](https://twitter.com/cjbell_)
+
+- [Video](#)
+- [Slides](#)
+- Links: ...
+
+#### Debugging techniques in Elixir by [Erich Kist](https://twitter.com/erichkist)
+
+- [Video](#)
+- [Slides](#)
+- Links: ...
+
+#### Migrating an invoicing system to Elixir/Erlang by [Norberto Ortigoza](https://twitter.com/hiphoox)
+
+- [Video](#)
+- [Slides](#)
+- Links: ...
+
+#### Building "learn to touch type" glove with Elixir and Arduino by [Tetiana Dushenkivska](https://twitter.com/tetiana12345678)
+
+- [Video](#)
+- [Slides](#)
+- Links: ...
+
+#### Phoenix Beyond the Browser - Realtime Applications with Phoenix and Swift by [David Stump](https://twitter.com/davidstump)
+
+- [Video](#)
+- [Slides](#)
+- Links: ...
+
 ## Training
 
 ### Talks
