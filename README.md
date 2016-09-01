@@ -134,6 +134,24 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 - [Slides](#)
 - Links: ...
 
+#### No REST for the wicked: Building a GraphQL API by [Ben Wilson](https://twitter.com/benwilson512)
+
+- [Video](#)
+- [Slides](#)
+- Links: ...
+
+#### Measuring your Elixir Application by [Renan Ranelli](https://twitter.com/renanranelli)
+
+- [Video](#)
+- [Slides](#)
+- Links: ...
+
+#### Edgelixir: Distributed Graph Processing in Elixir by [Nathan Lapierre](https://twitter.com/n_lap)
+
+- [Video](#)
+- [Slides](#)
+- Links: ...
+
 ## Training
 
 ### Talks
