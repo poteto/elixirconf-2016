@@ -69,6 +69,6 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 #### Giving up the Object-Oriented Ghost by [Zoe Laco](https://twitter.com/morganlaco)
 
 - [Video](#)
-- [Slides](#)
+- [Slides](http://slides.com/morganlaco/deck-2/live)
 - Links: ...
 
