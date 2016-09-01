@@ -32,8 +32,24 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 #### Implementing binary protocols with Elixir by [Ole Michaelis](https://twitter.com/CodeStars)
 
 - [Video](#)
-- [Slides](#)
-- Links: ...
+- [Slides](https://slidr.io/nesQuick/implementing-binary-protocols-with-elixir)
+- Links:
+    + https://github.com/nesQuick/elixir-hpack
+    + https://http2.github.io/http2-spec/compression.html
+    + https://http2.github.io/http2-spec/
+    + http://daniel.haxx.se/http2/
+    + https://github.com/ninenines/cowlib/blob/master/src/cow_hpack.erl
+    + http://elixir-lang.org/docs/stable/elixir/Bitwise.html#%3C%3C%3C/2
+    + http://www.slideshare.net/peychevi/http2-and-quick-protocols-optimizing-the-web-stack
+    + https://ma.ttias.be/architecting-websites-http2-era/
+    + https://benramsey.com/talks/2015/05/phptek-http2/
+    + https://speakerdeck.com/summerwind/2-prioritization
+    + http://chimera.labs.oreilly.com/books/1230000000545/ch12.html#HTTP2_HEADER_COMPRESSION
+    + http://tools.ietf.org/html/rfc6585
+    + https://http2.golang.org/
+    + https://aprescott.com/posts/spdy-colon-headers
+    + https://tools.ietf.org/html/draft-ietf-httpbis-header-compression-12
+    + http://news.netcraft.com/archives/2015/06/25/june-2015-web-server-survey.html
 
 #### pg2 and You: Getting Distributed with Elixir by [Eric Entin](https://twitter.com/antipax)
 
