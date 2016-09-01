@@ -118,7 +118,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 #### Debugging techniques in Elixir by [Erich Kist](https://twitter.com/erichkist)
 
 - [Video](#)
-- [Slides](#)
+- [Slides](https://speakerdeck.com/erichkist/debugging-techniques-in-elixir-elixirconf-2016)
 - Links: ...
 
 #### Migrating an invoicing system to Elixir/Erlang by [Norberto Ortigoza](https://twitter.com/hiphoox)
