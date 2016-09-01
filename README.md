@@ -6,6 +6,9 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 ### Talks
 
+#### Erlang Solutions Message
+- "supercharged observer" https://www.erlang-solutions.com/products/wombat-oam.html
+
 #### Opening Keynote by [Chris McCord](https://twitter.com/chris_mccord)
 
 - [Video](#)
@@ -23,7 +26,6 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 - [Video](#)
 - [Slides](#)
 - Links: ...
-- 
 
 #### pg2 and You: Getting Distributed with Elixir by [Eric Entin](https://twitter.com/antipax)
 
