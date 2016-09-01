@@ -148,7 +148,8 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 - [Video](#)
 - [Slides](#)
-- Links: ...
+- Links:
+    + [Absinthe GraphQL](https://github.com/absinthe-graphql/absinthe)
 
 #### Measuring your Elixir Application by [Renan Ranelli](https://twitter.com/renanranelli)
 
