@@ -57,7 +57,14 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 - [Video](#)
 - [Slides](#)
-- Links: ...
+- Links:
+    + [Ecto](https://github.com/elixir-ecto/ecto)
+    + [Phoenix.Naming](https://hexdocs.pm/phoenix/Phoenix.Naming.html)
+    + [Compile.Phoenix](https://github.com/phoenixframework/phoenix/blob/master/lib/mix/tasks/compile.phoenix.ex)
+    + [Kernel.pop_in/2](https://dockyard.com/blog/2016/06/05/elixir-1-3-kernel-pop-in)
+    + [ExUnit.Case.register_attribute/3](http://elixir-lang.org/docs/stable/ex_unit/ExUnit.Case.html#register_attribute/3)
+    + [elixir_rewrite](https://github.com/elixir-lang/elixir/blob/master/lib/elixir/src/elixir_rewrite.erl)
+    + [Kernel.SpecialForms](http://elixir-lang.org/docs/stable/elixir/Kernel.SpecialForms.html)
 
 #### Giving up the Object-Oriented Ghost by [Zoe Laco](https://twitter.com/morganlaco)
 
