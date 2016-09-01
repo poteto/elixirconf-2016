@@ -107,7 +107,8 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 - [Video](#)
 - [Slides](#)
-- Links: ...
+- Links:
+    + [The app Chris built for his client](http://cavagrill.com/)
 
 #### Debugging techniques in Elixir by [Erich Kist](https://twitter.com/erichkist)
 
