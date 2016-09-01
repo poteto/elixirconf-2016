@@ -154,7 +154,15 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 - [Video](#)
 - [Slides](#)
-- Links: ...
+- Links:
+    + [Grafana](http://grafana.org/)
+    + [InfluxDB](https://influxdata.com/)
+    + [collectd](https://collectd.org/)
+    + [haproxy](http://www.haproxy.org/)
+    + [clojurescript](https://github.com/clojure/clojurescript)
+    + [exometer](https://github.com/Feuerlabs/exometer)
+    + [elixometer](https://github.com/pinterest/elixometer)
+    + [vmstats](https://github.com/ferd/vmstats)
 
 #### Edgelixir: Distributed Graph Processing in Elixir by [Nathan Lapierre](https://twitter.com/n_lap)
 
