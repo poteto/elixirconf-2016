@@ -137,7 +137,12 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 - [Video](#)
 - [Slides](#)
-- Links: ...
+- Links:
+    + [Birdsong](https://github.com/sjrmanning/Birdsong)
+    + [SwiftPhoenixClient](https://github.com/davidstump/SwiftPhoenixClient)
+    + [RayWenderlich](https://www.raywenderlich.com/)
+    + [SwiftPlaygrounds](https://www.apple.com/swift/playgrounds/)
+    + [phoenix_chat_example](https://github.com/chrismccord/phoenix_chat_example)
 
 #### No REST for the wicked: Building a GraphQL API by [Ben Wilson](https://twitter.com/benwilson512)
 
