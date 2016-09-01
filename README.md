@@ -109,6 +109,11 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 - [Slides](#)
 - Links:
     + [The app Chris built for his client](http://cavagrill.com/)
+    + [gen_retry](https://github.com/appcues/gen_retry)
+    + [ets](http://erlang.org/doc/man/ets.html)
+    + [immortal](https://github.com/danielberkompas/immortal)
+    + [httpotion](https://github.com/myfreeweb/httpotion)
+    + [httpoison](https://github.com/edgurgel/httpoison)
 
 #### Debugging techniques in Elixir by [Erich Kist](https://twitter.com/erichkist)
 
