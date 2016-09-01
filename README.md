@@ -39,7 +39,13 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 - [Video](#)
 - [Slides](#)
-- Links: ...
+- Links:
+    + [pg2 docs](http://erlang.org/doc/man/pg2.html)
+    + [phoenix pubsub](https://github.com/phoenixframework/phoenix_pubsub)
+    + [RePG2](https://github.com/antipax/repg2)
+    + [gen_server](http://erlang.org/doc/man/gen_server.html)
+    + [global](http://erlang.org/doc/man/global.html)
+    + [net_kernel](http://erlang.org/doc/man/net_kernel.html)
 
 #### The future of deployment in Elixir by [Paul Schoenfelder](https://twitter.com/gotbones)
 
