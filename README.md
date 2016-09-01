@@ -2,6 +2,15 @@
 
 A collection of links that cover what happened during ElixirConf 2016. Please feel free to submit a PR!
 
+## Day 0
+
+#### SimAlchemy by [James Edward Gray](https://github.com/jeg2)
+
+- [Slides](#)
+- Links:
+    + [Simulations](https://github.com/JEG2/simulations)
+    + [Event Sourcing](http://martinfowler.com/eaaDev/EventSourcing.html)
+
 ## Day 1
 
 ### Talks
