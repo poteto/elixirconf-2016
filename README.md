@@ -19,6 +19,9 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
     + [Phoenix Presence blog post](https://dockyard.com/blog/2016/03/25/what-makes-phoenix-presence-special-sneak-peek)
     + [Nerves - Embedded Elixir](http://nerves-project.org/)
     + [New folder structure for Phoenix](https://twitter.com/antondom/status/771341202071384064)
+    + [Phoenix Presence docs](https://hexdocs.pm/phoenix/Phoenix.Presence.html)
+    + [Phoenix Presence podcast on the changelog](https://changelog.com/208/)
+    + [CRDTs](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
 
 #### Abstractions: A Tale of Keys and Values by [Ernie Miller](https://github.com/erniemiller)
 
