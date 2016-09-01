@@ -15,6 +15,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 - [Slides](#)
 - Links:
     + [2m connections in Phoenix](http://www.phoenixframework.org/blog/the-road-to-2-million-websocket-connections)
+    + [Programming Phoenix book](http://bit.ly/phoenix_book)
 
 #### Abstractions: A Tale of Keys and Values by [Ernie Miller](https://github.com/erniemiller)
 
