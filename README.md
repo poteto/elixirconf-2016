@@ -72,3 +72,27 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 - [Slides](http://slides.com/morganlaco/deck-2/live)
 - Links: ...
 
+## Training
+
+### Talks
+
+#### Phoenix - Getting realtime with channels
+
+- Links:
+    + [Sketchpad](https://github.com/chrismccord/sketchpad)
+
+#### Taking Off with Phoenix
+
+- Links:
+
+#### SimAlchemy
+
+- Links:
+
+#### Badge Hacking with Nerves
+
+- Links:
+
+#### Learning Elixir through TruStory
+
+- Links:
