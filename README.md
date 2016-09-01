@@ -171,6 +171,39 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 - [Slides](#)
 - Links: ...
 
+#### Lightning Talks
+- [René Föhring](https://twitter.com/rrrene)
+    + [Credo](https://github.com/rrrene/credo)
+    + [ElixirStatus](http://elixirstatus.com/)
+- [Pete Gamache](https://twitter.com/gamache)
+    + [gen_retry](https://github.com/appcues/gen_retry)
+- [Faheem Mughal](https://twitter.com/hallx)
+    + [poolboy](https://github.com/devinus/poolboy)
+- [Rockwell Schrock](https://twitter.com/Schrockwell)
+    + [authy](https://github.com/schrockwell/authy)
+- [Luke Imhoff](https://twitter.com/kronicdeth)
+    + [RabbitMQ](https://www.rabbitmq.com/)
+- [Jay Hayes](https://twitter.com/iamvery)
+    + [Ratchet](https://github.com/iamvery/ratchet)
+    + [Phoenix Ratchet](https://github.com/iamvery/phoenix_ratchet)
+    + [slatchet](https://github.com/iamvery/slatchet)
+- [Josh Adams](https://twitter.com/knewter)
+    + [DailyDrip](https://www.dailydrip.com/)
+- [Casey Rosenthal](https://twitter.com/caseyrosenthal)
+    + [SimianArmy](https://github.com/Netflix/SimianArmy)
+    + [Principles of Chaos](http://principlesofchaos.org/)
+    + [ChaosCommunity](http://chaos.community/)
+- [Przemyslaw Krowinski](https://twitter.com/sanesquid)
+    + [game](https://github.com/archdragon/game_engine_elixir_phoenix)
+- [Fernand Galiana](https://twitter.com/kitesurfer)
+    + [Kubernetes](http://kubernetes.io/)
+    + [Docker Compose](https://docs.docker.com/compose/)
+- <Sorry, didn't catch your name>
+    + [Mocks](http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/)
+    + [Bypass blog post](https://www.inverse.com/article/10674-here-s-how-inverse-tests-external-apis-in-elixir-with-bypass)
+- [Gabe Klein](https://github.com/gabeklein)
+    + [Socks](https://github.com/gabeklein/Socks)
+
 ## Training
 
 ### Talks
