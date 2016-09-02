@@ -335,7 +335,8 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 - [Video](#)
 - [Slides](https://speakerdeck.com/iamvery/elixir-in-elixir)
-- Links: ...
+- Links:
+    + [Getting Started with Elixir Metaprogramming](https://www.bignerdranch.com/blog/getting-started-with-elixir-metaprogramming/)
 
 #### WebRTC and Phoenix, when μ seconds aren't fast enough by [Jason Stiebs](https://twitter.com/peregrine)
 
