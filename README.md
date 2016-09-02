@@ -263,6 +263,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 - [Slides](#)
 - Links:
     + [MusicDB example](https://github.com/darinwilson/music_db)
+    + [ecto](https://github.com/elixir-ecto/ecto)
 
 #### Building Available and Partition Tolerant Systems with Phoenix Tracker by [Gabi Zuniga](https://twitter.com/gabiz)
 
