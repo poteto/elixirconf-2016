@@ -237,7 +237,10 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 - [Video](#)
 - [Slides](#)
-- Links: ...
+- Links:
+    + [Architecture: The Lost Years (RubyConf 2011)](https://www.youtube.com/watch?v=WpkDN78P884)
+    + [Wrangling Large Rails Codebases (Rocky Mountain Ruby 2012)](https://www.youtube.com/watch?v=FElnETSIMuo)
+    + [The Art of Destroying Software (Leetspeek 2014)](https://vimeo.com/108441214)
 
 #### Collaborative Music with Elm and Phoenix by [Josh Adams](https://twitter.com/knewter)
 
