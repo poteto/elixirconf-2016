@@ -352,7 +352,10 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 - [Video](#)
 - [Slides](#)
-- Links: ...
+- Links:
+    + [Cloak blog post](http://blog.danielberkompas.com/2015/09/22/cloak-your-ecto-data.html)
+    + [Cloak source](https://github.com/danielberkompas/cloak)
+    + [FPGA article](http://www.theregister.co.uk/2016/03/14/intel_xeon_fpga/)
 
 ---
 
