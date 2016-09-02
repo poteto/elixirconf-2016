@@ -204,6 +204,109 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 - [Gabe Klein](https://github.com/gabeklein)
     + [Socks](https://github.com/gabeklein/Socks)
 
+## Day 2
+
+### Talk
+
+#### Keynote by [José Valim](https://twitter.com/josevalim) 
+
+- [Video](#)
+- [Slides](#)
+- Links:
+    + [GenStage](http://elixir-lang.org/blog/2016/07/14/announcing-genstage/)
+
+#### String Theory by [James Edward Gray II](https://twitter.com/JEG2) and [Nathan Long](https://twitter.com/sleeplessgeek)
+
+- [Video](#)
+- [Slides](#)
+- Links: ...
+
+#### Refactoring Techniques for Elixir, Ecto, and Phoenix by [Gary Rennie](https://twitter.com/TheGazler)
+
+- [Video](#)
+- [Slides](#)
+- Links: ...
+
+#### Building umbrella project by [Wojtek Mach](https://twitter.com/wojtekmach)
+
+- [Video](#)
+- [Slides](#)
+- Links: ...
+
+#### Collaborative Music with Elm and Phoenix by [Josh Adams](https://twitter.com/knewter)
+
+- [Video](#)
+- [Slides](#)
+- Links: ...
+
+#### Leveling Up With Ecto by [Darin Wilson](https://twitter.com/darinwilson)
+
+- [Video](#)
+- [Slides](#)
+- Links: ...
+
+#### Building Available and Partition Tolerant Systems with Phoenix Tracker by [Gabi Zuniga](https://twitter.com/gabiz)
+
+- [Video](#)
+- [Slides](#)
+- Links: ...
+
+#### From Front End to Full Stack with Elixir and Phoenix by [Lauren Tan](https://twitter.com/sugarpirate_)
+
+- [Video](#)
+- [Slides](#)
+- Links: ...
+
+#### Nerves + Phoenix Saves a Father's Sanity! by [Joel Byler](https://twitter.com/joelbyler)
+
+- [Video](#)
+- [Slides](#)
+- Links: ...
+
+#### Concurrent Feature Testing with Wallaby by [Chris Keathley](https://twitter.com/ChrisKeathley)
+
+- [Video](#)
+- [Slides](#)
+- Links: ...
+
+#### The new calendar types in Elixir 1.3 by [Lau Taarnskov](https://twitter.com/lauT)
+
+- [Video](#)
+- [Slides](#)
+- Links: ...
+
+#### Painless Test Driven Development with Elixir and Phoenix by [Kat Tornwall](https://twitter.com/ktornwall)
+
+- [Video](#)
+- [Slides](#)
+- Links: ...
+
+#### Dialyzer: Optimistic Type Checking for Erlang and Elixir by [Jason Voegele](https://twitter.com/jvoegele)
+
+- [Video](#)
+- [Slides](#)
+- Links: ...
+
+#### The Joy of Connecting Elixir to the Physical World by [Frank Hunleth](https://twitter.com/fhunleth)
+
+- [Video](#)
+- [Slides](#)
+- Links: ...
+
+#### Elixir in Elixir by [Jay Hayes](https://twitter.com/iamvery)
+
+- [Video](#)
+- [Slides](#)
+- Links: ...
+
+#### WebRTC and Phoenix, when μ seconds aren't fast enough by [Jason Stiebs](https://twitter.com/peregrine)
+
+- [Video](#)
+- [Slides](#)
+- Links: ...
+
+---
+
 ## Training
 
 ### Talks
