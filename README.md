@@ -256,7 +256,8 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 - [Video](#)
 - [Slides](#)
-- Links: ...
+- Links:
+    + [Colluder](https://github.com/knewter/colluder)
 
 #### Leveling Up With Ecto by [Darin Wilson](https://twitter.com/darinwilson)
 
