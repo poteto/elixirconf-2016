@@ -334,7 +334,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 #### Elixir in Elixir by [Jay Hayes](https://twitter.com/iamvery)
 
 - [Video](#)
-- [Slides](#)
+- [Slides](https://speakerdeck.com/iamvery/elixir-in-elixir)
 - Links: ...
 
 #### WebRTC and Phoenix, when μ seconds aren't fast enough by [Jason Stiebs](https://twitter.com/peregrine)
