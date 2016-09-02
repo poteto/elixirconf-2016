@@ -113,7 +113,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 #### Selling Food With Elixir by [Chris Bell](https://twitter.com/cjbell_)
 
 - [Video](#)
-- [Slides](#)
+- [Slides](https://speakerdeck.com/cjbell88/selling-food-with-elixir-elixirconf-2016)
 - Links:
     + [The app Chris built for his client](http://cavagrill.com/)
     + [gen_retry](https://github.com/appcues/gen_retry)
