@@ -213,7 +213,8 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 - [Video](#)
 - [Slides](#)
 - Links:
-    + [GenStage](http://elixir-lang.org/blog/2016/07/14/announcing-genstage/)
+    + [GenStage announcement](http://elixir-lang.org/blog/2016/07/14/announcing-genstage/)
+    + [GenStage](https://github.com/elixir-lang/gen_stage)
 
 #### String Theory by [James Edward Gray II](https://twitter.com/JEG2) and [Nathan Long](https://twitter.com/sleeplessgeek)
 
