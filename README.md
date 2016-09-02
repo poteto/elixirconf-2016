@@ -262,7 +262,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 #### Leveling Up With Ecto by [Darin Wilson](https://twitter.com/darinwilson)
 
 - [Video](#)
-- [Slides](#)
+- [Slides](https://dl.dropboxusercontent.com/u/14884175/leveling_up_with_ecto.pdf)
 - Links:
     + [MusicDB example](https://github.com/darinwilson/music_db)
     + [ecto](https://github.com/elixir-ecto/ecto)
