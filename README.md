@@ -270,7 +270,8 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 - [Video](#)
 - [Slides](#)
-- Links: ...
+- Links:
+    + [VoiceLayer dispatch](https://github.com/VoiceLayer/dispatch)
 
 #### From Front End to Full Stack with Elixir and Phoenix by [Lauren Tan](https://twitter.com/sugarpirate_)
 
