@@ -265,6 +265,8 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 - Links:
     + [MusicDB example](https://github.com/darinwilson/music_db)
     + [ecto](https://github.com/elixir-ecto/ecto)
+    + [ecto docs](https://hexdocs.pm/ecto/Ecto.html)
+    + [Insert_all and schemaless queries](http://blog.plataformatec.com.br/2016/05/ectos-insert_all-and-schemaless-queries/)
 
 #### Building Available and Partition Tolerant Systems with Phoenix Tracker by [Gabi Zuniga](https://twitter.com/gabiz)
 
