@@ -352,7 +352,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 #### Closing Keynote by [Boyd Multerer](https://twitter.com/BoydMulterer)
 
 - [Video](#)
-- [Slides](#)
+- [Slides](https://github.com/boydm/presentations/blob/master/elixirconf_boydm_keynote.key)
 - Links:
     + [Cloak blog post](http://blog.danielberkompas.com/2015/09/22/cloak-your-ecto-data.html)
     + [Cloak source](https://github.com/danielberkompas/cloak)
