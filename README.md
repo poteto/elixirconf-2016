@@ -76,7 +76,10 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 - [Video](#)
 - [Slides](#)
-- Links: ...
+- Links:
+    + [Distillery](https://github.com/bitwalker/distillery)
+    + [edeliver](https://github.com/boldpoker/edeliver)
+    + [OpenShift](https://www.openshift.com)
 
 #### Code Spelunking for Knowledge and Profit by [Brian Cardarella](https://twitter.com/bcardarella)
 
