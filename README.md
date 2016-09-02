@@ -255,7 +255,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 #### Collaborative Music with Elm and Phoenix by [Josh Adams](https://twitter.com/knewter)
 
 - [Video](#)
-- [Slides](#)
+- [Slides](http://www.slideshare.net/JoshAdams18/collaborative-music-with-elm-and-phoenix)
 - Links:
     + [Colluder](https://github.com/knewter/colluder)
 
