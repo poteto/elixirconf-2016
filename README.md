@@ -303,8 +303,9 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 #### Painless Test Driven Development with Elixir and Phoenix by [Kat Tornwall](https://twitter.com/ktornwall)
 
 - [Video](#)
-- [Slides](#)
-- Links: ...
+- [Slides](https://github.com/ktornwall/elixir_conf_2016_demo/raw/master/slides.pdf)
+- Links:
+    + [Demo App](https://github.com/ktornwall/elixir_conf_2016_demo)
 
 #### Dialyzer: Optimistic Type Checking for Erlang and Elixir by [Jason Voegele](https://twitter.com/jvoegele)
 
