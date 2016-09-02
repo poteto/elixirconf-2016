@@ -180,6 +180,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
     + [ElixirStatus](http://elixirstatus.com/)
 - [Pete Gamache](https://twitter.com/gamache)
     + [gen_retry](https://github.com/appcues/gen_retry)
+    + [slides](http://www.slideshare.net/petegamache/genretry-simple-exponential-backoff-in-elixir)
 - [Faheem Mughal](https://twitter.com/hallx)
     + [poolboy](https://github.com/devinus/poolboy)
 - [Rockwell Schrock](https://twitter.com/Schrockwell)
