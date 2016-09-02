@@ -220,6 +220,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 - [Video](#)
 - [Slides](#)
+- [Notes on slides](https://gist.github.com/sanmiguel/d73056adb6cffc9954327d8fcd89cd48)
 - Links:
     + [GenStage announcement](http://elixir-lang.org/blog/2016/07/14/announcing-genstage/)
     + [GenStage](https://github.com/elixir-lang/gen_stage)
