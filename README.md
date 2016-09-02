@@ -219,7 +219,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 - Links:
     + [GenStage announcement](http://elixir-lang.org/blog/2016/07/14/announcing-genstage/)
     + [GenStage](https://github.com/elixir-lang/gen_stage)
-    + + ["Musketeer: all for one, one for all in data processing systems"](http://www.cs.utexas.edu/users/ncrooks/2015-eurosys-musketeer.pdf). Gog, _et al_. University of Cambridge, 2015. 
+    + ["Musketeer: all for one, one for all in data processing systems"](http://www.cs.utexas.edu/users/ncrooks/2015-eurosys-musketeer.pdf). Gog, _et al_. University of Cambridge, 2015. 
 
 #### String Theory by [James Edward Gray II](https://twitter.com/JEG2) and [Nathan Long](https://twitter.com/sleeplessgeek)
 
