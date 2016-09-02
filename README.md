@@ -67,7 +67,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 #### pg2 and You: Getting Distributed with Elixir by [Eric Entin](https://twitter.com/antipax)
 
 - [Video](#)
-- [Slides](#)
+- [Slides](https://speakerdeck.com/antipax/pg2-and-you-getting-distributed-with-elixir)
 - Links:
     + [pg2 docs](http://erlang.org/doc/man/pg2.html)
     + [phoenix pubsub](https://github.com/phoenixframework/phoenix_pubsub)
