@@ -145,6 +145,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 - [Video](#)
 - [Slides](#)
 - Links:
+    + [All resources](https://github.com/davidstump/phoenix_beyond_the_browser)
     + [Birdsong](https://github.com/sjrmanning/Birdsong)
     + [SwiftPhoenixClient](https://github.com/davidstump/SwiftPhoenixClient)
     + [RayWenderlich](https://www.raywenderlich.com/)
