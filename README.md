@@ -279,8 +279,18 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 #### From Front End to Full Stack with Elixir and Phoenix by [Lauren Tan](https://twitter.com/sugarpirate_)
 
 - [Video](#)
-- [Slides](#)
-- Links: ...
+- [Slides](https://speakerdeck.com/poteto/elixirconf-2016-from-front-end-to-full-stack-with-elixir-and-phoenix)
+- Links:
+    + [ember-changeset](https://github.com/DockYard/ember-changeset)
+    + [Erlang the Movie II](https://www.youtube.com/watch?v=rRbY3TMUcgQ)
+    + [The Little Elixir and OTP Guidebook](https://www.manning.com/books/the-little-elixir-and-otp-guidebook)
+    + [Elixir in Action](https://www.manning.com/books/elixir-in-action)
+    + [Key value data types best practices](https://engineering.appcues.com/2016/02/02/too-many-dicts.html)
+    + [Dialyxir](https://github.com/jeremyjh/dialyxir)
+    + [TDD with typespecs](https://medium.com/@barruumrex/seeking-simple-satisfaction-2a098902ddff)
+    + [Metaprogramming Elixir](https://pragprog.com/book/cmelixir/metaprogramming-elixir)
+    + [Terraform - incrementally replace your API with Phoenix](https://github.com/poteto/terraform) - [blogpost](https://medium.com/@sugarpirate/rise-from-the-ashes-incremental-apis-with-phoenix-b08cd66bd142#.hll7po4x0)
+    + [Functional programming patterns](https://fsharpforfunandprofit.com/fppatterns/ )
 
 #### Nerves + Phoenix Saves a Father's Sanity! by [Joel Byler](https://twitter.com/joelbyler)
 
@@ -311,7 +321,9 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 - [Video](#)
 - [Slides](#)
-- Links: ...
+- Links:
+    + [Dialyzer](http://erlang.org/doc/man/dialyzer.html)
+    + [Dialyxir](https://github.com/jeremyjh/dialyxir)
 
 #### The Joy of Connecting Elixir to the Physical World by [Frank Hunleth](https://twitter.com/fhunleth)
 
