@@ -347,6 +347,12 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
     + [stun](https://github.com/processone/stun)
     + [WebRTC](https://hpbn.co/webrtc/)
 
+#### Closing Keynote by [Boyd Multerer](https://twitter.com/BoydMulterer)
+
+- [Video](#)
+- [Slides](#)
+- Links: ...
+
 ---
 
 ## Training
