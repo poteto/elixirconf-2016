@@ -342,6 +342,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 - [Video](#)
 - [Slides](#)
 - Links:
+    + [Demo app](https://phoenix-webrtc.herokuapp.com/)
     + [Phoenix WebRTC](https://github.com/jeregrine/phoenix_webrtc)
     + [Twilio Stun Turn](https://www.twilio.com/stun-turn)
     + [stun](https://github.com/processone/stun)
