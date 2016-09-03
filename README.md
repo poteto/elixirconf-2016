@@ -6,7 +6,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### SimAlchemy by [James Edward Gray](https://github.com/jeg2)
 
-- Slides
+- Slides:
     + [Process Basics](https://github.com/sabondano/elixirconf-2016/blob/master/process_basics_slides.pdf)
     + [GenServer and Friends](https://github.com/sabondano/elixirconf-2016/blob/master/genserver_and_friends_slides.pdf)
     + [Supervisors](https://github.com/sabondano/elixirconf-2016/blob/master/supervisors_slides.pdf)
@@ -14,6 +14,23 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 - Links:
     + [Simulations](https://github.com/JEG2/simulations)
     + [Event Sourcing](http://martinfowler.com/eaaDev/EventSourcing.html)
+
+#### Phoenix - Getting realtime with channels
+
+- Links:
+    + [Sketchpad](https://github.com/chrismccord/sketchpad)
+
+#### Taking Off with Phoenix
+
+- Links: ...
+
+#### Badge Hacking with Nerves
+
+- Links: ...
+
+#### Learning Elixir through TruStory
+
+- Links: ...
 
 ## Day 1
 
@@ -357,30 +374,3 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
     + [Cloak blog post](http://blog.danielberkompas.com/2015/09/22/cloak-your-ecto-data.html)
     + [Cloak source](https://github.com/danielberkompas/cloak)
     + [FPGA article](http://www.theregister.co.uk/2016/03/14/intel_xeon_fpga/)
-
----
-
-## Training
-
-### Talks
-
-#### Phoenix - Getting realtime with channels
-
-- Links:
-    + [Sketchpad](https://github.com/chrismccord/sketchpad)
-
-#### Taking Off with Phoenix
-
-- Links:
-
-#### SimAlchemy
-
-- Links:
-
-#### Badge Hacking with Nerves
-
-- Links:
-
-#### Learning Elixir through TruStory
-
-- Links:
