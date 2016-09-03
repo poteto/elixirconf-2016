@@ -345,7 +345,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 #### The Joy of Connecting Elixir to the Physical World by [Frank Hunleth](https://twitter.com/fhunleth)
 
 - [Video](#)
-- [Slides](#)
+- [Slides](https://speakerdeck.com/fhunleth/the-joy-of-connecting-elixir-to-the-physical-world)
 - Links: ...
 
 #### Elixir in Elixir by [Jay Hayes](https://twitter.com/iamvery)
