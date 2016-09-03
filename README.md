@@ -41,8 +41,8 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Opening Keynote by [Chris McCord](https://twitter.com/chris_mccord)
 
-- [Video](#)
-- [Slides](#)
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
 - Links:
     + [2m connections in Phoenix](http://www.phoenixframework.org/blog/the-road-to-2-million-websocket-connections)
     + [Programming Phoenix book](http://bit.ly/phoenix_book) - Discount code: `ElixirConfUS2016_phoenix`
@@ -55,13 +55,13 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Abstractions: A Tale of Keys and Values by [Ernie Miller](https://github.com/erniemiller)
 
-- [Video](#)
-- [Slides](#)
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
 - Links: ...
 
 #### Implementing binary protocols with Elixir by [Ole Michaelis](https://twitter.com/CodeStars)
 
-- [Video](#)
+- Video - Not uploaded yet
 - [Slides](https://slidr.io/nesQuick/implementing-binary-protocols-with-elixir)
 - Links:
     + https://github.com/nesQuick/elixir-hpack
@@ -83,7 +83,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### pg2 and You: Getting Distributed with Elixir by [Eric Entin](https://twitter.com/antipax)
 
-- [Video](#)
+- Video - Not uploaded yet
 - [Slides](https://speakerdeck.com/antipax/pg2-and-you-getting-distributed-with-elixir)
 - Links:
     + [pg2 docs](http://erlang.org/doc/man/pg2.html)
@@ -95,8 +95,8 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### The future of deployment in Elixir by [Paul Schoenfelder](https://twitter.com/gotbones)
 
-- [Video](#)
-- [Slides](#)
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
 - Links:
     + [Distillery](https://github.com/bitwalker/distillery)
     + [edeliver](https://github.com/boldpoker/edeliver)
@@ -104,8 +104,8 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Code Spelunking for Knowledge and Profit by [Brian Cardarella](https://twitter.com/bcardarella)
 
-- [Video](#)
-- [Slides](#)
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
 - Links:
     + [Ecto](https://github.com/elixir-ecto/ecto)
     + [Phoenix.Naming](https://hexdocs.pm/phoenix/Phoenix.Naming.html)
@@ -117,19 +117,19 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Giving up the Object-Oriented Ghost by [Zoe Laco](https://twitter.com/morganlaco)
 
-- [Video](#)
+- Video - Not uploaded yet
 - [Slides](http://slides.com/morganlaco/deck-2/live)
 - Links: ...
 
 #### Nerves: Connected beyond the Node by [Justin Schneck](https://twitter.com/mobileoverlord)
 
-- [Video](#)
-- [Slides](#)
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
 - Links: ...
     
 #### Selling Food With Elixir by [Chris Bell](https://twitter.com/cjbell_)
 
-- [Video](#)
+- Video - Not uploaded yet
 - [Slides](https://speakerdeck.com/cjbell88/selling-food-with-elixir-elixirconf-2016)
 - Links:
     + [The app Chris built for his client](http://cavagrill.com/)
@@ -141,26 +141,26 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Debugging techniques in Elixir by [Erich Kist](https://twitter.com/erichkist)
 
-- [Video](#)
+- Video - Not uploaded yet
 - [Slides](https://speakerdeck.com/erichkist/debugging-techniques-in-elixir-elixirconf-2016)
 - Links: ...
 
 #### Migrating an invoicing system to Elixir/Erlang by [Norberto Ortigoza](https://twitter.com/hiphoox)
 
-- [Video](#)
-- [Slides](#)
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
 - Links: ...
 
 #### Building "learn to touch type" glove with Elixir and Arduino by [Tetiana Dushenkivska](https://twitter.com/tetiana12345678)
 
-- [Video](#)
-- [Slides](#)
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
 - Links: ...
 
 #### Phoenix Beyond the Browser - Realtime Applications with Phoenix and Swift by [David Stump](https://twitter.com/davidstump)
 
-- [Video](#)
-- [Slides](#)
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
 - Links:
     + [All resources](https://github.com/davidstump/phoenix_beyond_the_browser)
     + [Birdsong](https://github.com/sjrmanning/Birdsong)
@@ -171,15 +171,15 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### No REST for the wicked: Building a GraphQL API by [Ben Wilson](https://twitter.com/benwilson512)
 
-- [Video](#)
-- [Slides](#)
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
 - Links:
     + [Absinthe GraphQL](https://github.com/absinthe-graphql/absinthe)
 
 #### Measuring your Elixir Application by [Renan Ranelli](https://twitter.com/renanranelli)
 
-- [Video](#)
-- [Slides](#)
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
 - Links:
     + [Grafana](http://grafana.org/)
     + [InfluxDB](https://influxdata.com/)
@@ -192,8 +192,8 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Edgelixir: Distributed Graph Processing in Elixir by [Nathan Lapierre](https://twitter.com/n_lap)
 
-- [Video](#)
-- [Slides](#)
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
 - Links: ...
 
 #### Lightning Talks
@@ -236,7 +236,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Keynote by [José Valim](https://twitter.com/josevalim) 
 
-- [Video](#)
+- Video - Not uploaded yet
 - [Slides](https://speakerdeck.com/plataformatec/genstage-and-flow-by-at-josevalim-at-elixirconf)
 - [Notes on slides](https://gist.github.com/sanmiguel/d73056adb6cffc9954327d8fcd89cd48)
 - Links:
@@ -246,20 +246,20 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### String Theory by [James Edward Gray II](https://twitter.com/JEG2) and [Nathan Long](https://twitter.com/sleeplessgeek)
 
-- [Video](#)
-- [Slides](#)
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
 - Links: ...
 
 #### Refactoring Techniques for Elixir, Ecto, and Phoenix by [Gary Rennie](https://twitter.com/TheGazler)
 
-- [Video](#)
-- [Slides](#)
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
 - Links: ...
 
 #### Building umbrella project by [Wojtek Mach](https://twitter.com/wojtekmach)
 
-- [Video](#)
-- [Slides](#)
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
 - Links:
     + [Umbrella apps](http://elixir-lang.org/getting-started/mix-otp/dependencies-and-umbrella-apps.html)
     + [Architecture: The Lost Years (RubyConf 2011)](https://www.youtube.com/watch?v=WpkDN78P884)
@@ -271,14 +271,14 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Collaborative Music with Elm and Phoenix by [Josh Adams](https://twitter.com/knewter)
 
-- [Video](#)
+- Video - Not uploaded yet
 - [Slides](http://www.slideshare.net/JoshAdams18/collaborative-music-with-elm-and-phoenix)
 - Links:
     + [Colluder](https://github.com/knewter/colluder)
 
 #### Leveling Up With Ecto by [Darin Wilson](https://twitter.com/darinwilson)
 
-- [Video](#)
+- Video - Not uploaded yet
 - [Slides](https://dl.dropboxusercontent.com/u/14884175/leveling_up_with_ecto.pdf)
 - Links:
     + [MusicDB example](https://github.com/darinwilson/music_db)
@@ -288,14 +288,14 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Building Available and Partition Tolerant Systems with Phoenix Tracker by [Gabi Zuniga](https://twitter.com/gabiz)
 
-- [Video](#)
-- [Slides](#)
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
 - Links:
     + [VoiceLayer dispatch](https://github.com/VoiceLayer/dispatch)
 
 #### From Front End to Full Stack with Elixir and Phoenix by [Lauren Tan](https://twitter.com/sugarpirate_)
 
-- [Video](#)
+- Video - Not uploaded yet
 - [Slides](https://speakerdeck.com/poteto/elixirconf-2016-from-front-end-to-full-stack-with-elixir-and-phoenix)
 - Links:
     + [ember-changeset](https://github.com/DockYard/ember-changeset)
@@ -311,54 +311,54 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Nerves + Phoenix Saves a Father's Sanity! by [Joel Byler](https://twitter.com/joelbyler)
 
-- [Video](#)
-- [Slides](#)
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
 - Links: ...
 
 #### Concurrent Feature Testing with Wallaby by [Chris Keathley](https://twitter.com/ChrisKeathley)
 
-- [Video](#)
-- [Slides](#)
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
 - Links: ...
 
 #### The new calendar types in Elixir 1.3 by [Lau Taarnskov](https://twitter.com/lauT)
 
-- [Video](#)
-- [Slides](#)
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
 - Links: ...
 
 #### Painless Test Driven Development with Elixir and Phoenix by [Kat Tornwall](https://twitter.com/ktornwall)
 
-- [Video](#)
+- Video - Not uploaded yet
 - [Slides](https://github.com/ktornwall/elixir_conf_2016_demo/raw/master/slides.pdf)
 - Links:
     + [Demo App](https://github.com/ktornwall/elixir_conf_2016_demo)
 
 #### Dialyzer: Optimistic Type Checking for Erlang and Elixir by [Jason Voegele](https://twitter.com/jvoegele)
 
-- [Video](#)
-- [Slides](#)
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
 - Links:
     + [Dialyzer](http://erlang.org/doc/man/dialyzer.html)
     + [Dialyxir](https://github.com/jeremyjh/dialyxir)
 
 #### The Joy of Connecting Elixir to the Physical World by [Frank Hunleth](https://twitter.com/fhunleth)
 
-- [Video](#)
+- Video - Not uploaded yet
 - [Slides](https://speakerdeck.com/fhunleth/the-joy-of-connecting-elixir-to-the-physical-world)
 - Links: ...
 
 #### Elixir in Elixir by [Jay Hayes](https://twitter.com/iamvery)
 
-- [Video](#)
+- Video - Not uploaded yet
 - [Slides](https://speakerdeck.com/iamvery/elixir-in-elixir)
 - Links:
     + [Getting Started with Elixir Metaprogramming](https://www.bignerdranch.com/blog/getting-started-with-elixir-metaprogramming/)
 
 #### WebRTC and Phoenix, when μ seconds aren't fast enough by [Jason Stiebs](https://twitter.com/peregrine)
 
-- [Video](#)
-- [Slides](#)
+- Video - Not uploaded yet
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
 - Links:
     + [Demo app](https://phoenix-webrtc.herokuapp.com/)
     + [Phoenix WebRTC](https://github.com/jeregrine/phoenix_webrtc)
@@ -368,7 +368,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Closing Keynote by [Boyd Multerer](https://twitter.com/BoydMulterer)
 
-- [Video](#)
+- Video - Not uploaded yet
 - [Slides](https://github.com/boydm/presentations/blob/master/elixirconf_boydm_keynote.key)
 - Links:
     + [Cloak blog post](http://blog.danielberkompas.com/2015/09/22/cloak-your-ecto-data.html)
