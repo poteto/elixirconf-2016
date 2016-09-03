@@ -259,7 +259,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 #### Building umbrella project by [Wojtek Mach](https://twitter.com/wojtekmach)
 
 - Video - Not uploaded yet
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
+- [Slides](https://speakerdeck.com/wojtekmach/building-an-umbrella-project)
 - Links:
     + [Umbrella apps](http://elixir-lang.org/getting-started/mix-otp/dependencies-and-umbrella-apps.html)
     + [Architecture: The Lost Years (RubyConf 2011)](https://www.youtube.com/watch?v=WpkDN78P884)
