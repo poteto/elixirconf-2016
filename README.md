@@ -156,8 +156,14 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 #### Building "learn to touch type" glove with Elixir and Arduino by [Tetiana Dushenkivska](https://twitter.com/tetiana12345678)
 
 - Video - Not uploaded yet
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
-- Links: ...
+- [Slides](http://goo.gl/iS5K0j)
+- [Gifs used in slides](https://github.com/tetiana12345678/touch_typing_glove_pressie_orlando_gifs)
+- Links: 
+    + [Typehero_project on github](https://github.com/tetiana12345678/typehero_project)
+    + [All about Arduino](https://www.arduino.cc/)
+    + [Conductive materials](http://www.kobakant.at/DIY/?cat=24)
+    + [Velostat](https://www.adafruit.com/product/1361)
+    + [Serial library](https://github.com/bitgamma/elixir_serial) and [Nerves_uart](https://github.com/nerves-project/nerves_uart) for hardware/software communication.
 
 #### Phoenix Beyond the Browser - Realtime Applications with Phoenix and Swift by [David Stump](https://twitter.com/davidstump)
 
