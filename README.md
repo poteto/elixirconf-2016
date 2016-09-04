@@ -28,9 +28,11 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 - Links: ...
 
-#### Learning Elixir through TruStory
+#### Learning Elixir through TrueStory by [Bruce Tate](https://github.com/batate) and [Eric Meadows-Jönsson](https://github.com/ericmj)
 
-- Links: ...
+- Links:
+    + [Workshop](https://github.com/ericmj/workshop)
+    + [TrueStory](https://hex.pm/packages/true_story)
 
 ## Day 1
 
