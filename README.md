@@ -226,9 +226,10 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 - [Fernand Galiana](https://twitter.com/kitesurfer)
     + [Kubernetes](http://kubernetes.io/)
     + [Docker Compose](https://docs.docker.com/compose/)
-- Sorry, didn't catch your name
+- [Aaron Renner](https://twitter.com/bayfieldcoder)
+    + [Slides (Mocks, Adapters and Microservices)](http://slides.com/aaronrenner/deck)
     + [Mocks](http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/)
-    + [Bypass blog post](https://www.inverse.com/article/10674-here-s-how-inverse-tests-external-apis-in-elixir-with-bypass)
+    + [Adapters blog post](https://www.inverse.com/article/10674-here-s-how-inverse-tests-external-apis-in-elixir-with-bypass)
 - [Gabe Klein](https://github.com/gabeklein)
     + [Socks](https://github.com/gabeklein/Socks)
 
