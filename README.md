@@ -367,7 +367,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 #### WebRTC and Phoenix, when μ seconds aren't fast enough by [Jason Stiebs](https://twitter.com/peregrine)
 
 - Video - Not uploaded yet
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
+- [Slides](https://speakerdeck.com/jeregrine/webrtc-for-when-m-seconds-are-not-fast-enough)
 - Links:
     + [Demo app](https://phoenix-webrtc.herokuapp.com/)
     + [Phoenix WebRTC](https://github.com/jeregrine/phoenix_webrtc)
