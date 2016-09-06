@@ -158,7 +158,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 - Video - Not uploaded yet
 - [Slides](http://goo.gl/iS5K0j)
 - [Gifs used in slides](https://github.com/tetiana12345678/touch_typing_glove_pressie_orlando_gifs)
-- Links: 
+- Links:
     + [Typehero_project on github](https://github.com/tetiana12345678/typehero_project)
     + [All about Arduino](https://www.arduino.cc/)
     + [Conductive materials](http://www.kobakant.at/DIY/?cat=24)
@@ -321,8 +321,14 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 #### Nerves + Phoenix Saves a Father's Sanity! by [Joel Byler](https://twitter.com/joelbyler)
 
 - Video - Not uploaded yet
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
-- Links: ...
+- [Slides](https://speakerdeck.com/joelbyler/nerves-plus-phoenix-saves-a-fathers-sanity)
+- Links:
+    + [Project Github Repository](https://github.com/joelbyler/elixir_conf_chores)
+    + [Project Custom Nerves System](https://github.com/joelbyler/nerves_system_rpi3_ap)
+    + [Nerves Base Buildroot Config (great README for custom systems)](https://github.com/nerves-project/nerves_system_br)
+    + [Project Custom Nerves System](https://github.com/joelbyler/nerves_system_rpi3_ap)
+    + [Great advice on testing, written by José Valim](http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/)
+
 
 #### Concurrent Feature Testing with Wallaby by [Chris Keathley](https://twitter.com/ChrisKeathley)
 
