@@ -201,8 +201,9 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 #### Edgelixir: Distributed Graph Processing in Elixir by [Nathan Lapierre](https://twitter.com/n_lap)
 
 - Video - Not uploaded yet
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
-- Links: ...
+- [Slides](https://speakerdeck.com/nlap/edgelixir-distributed-graph-processing-in-elixir)
+- Links:
+    + [Edgelixir](https://github.com/nlap/edgelixir)
 
 #### Lightning Talks
 - [René Föhring](https://twitter.com/rrrene)
