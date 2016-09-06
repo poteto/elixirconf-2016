@@ -168,7 +168,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 #### Phoenix Beyond the Browser - Realtime Applications with Phoenix and Swift by [David Stump](https://twitter.com/davidstump)
 
 - Video - Not uploaded yet
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
+- [Slides, Demo Apps, and Code Samples](https://github.com/davidstump/phoenix_beyond_the_browser)
 - Links:
     + [All resources](https://github.com/davidstump/phoenix_beyond_the_browser)
     + [Birdsong](https://github.com/sjrmanning/Birdsong)
