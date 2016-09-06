@@ -257,7 +257,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 #### String Theory by [James Edward Gray II](https://twitter.com/JEG2) and [Nathan Long](https://twitter.com/sleeplessgeek)
 
 - Video - Not uploaded yet
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
+- [Slides](https://speakerdeck.com/nathanl/string-theory)
 - Links: ...
 
 #### Refactoring Techniques for Elixir, Ecto, and Phoenix by [Gary Rennie](https://twitter.com/TheGazler)
