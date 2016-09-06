@@ -262,8 +262,9 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 #### Refactoring Techniques for Elixir, Ecto, and Phoenix by [Gary Rennie](https://twitter.com/TheGazler)
 
 - Video - Not uploaded yet
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
-- Links: ...
+- [Slides](http://blog.gazler.com/talks/refactoring-elixir)
+- Links:
+    + [Oxo GitHub Repository](https://github.com/Gazler/oxo)
 
 #### Building umbrella project by [Wojtek Mach](https://twitter.com/wojtekmach)
 
