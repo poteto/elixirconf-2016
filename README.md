@@ -58,7 +58,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 #### Abstractions: A Tale of Keys and Values by [Ernie Miller](https://github.com/erniemiller)
 
 - Video - Not uploaded yet
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
+- [Slides](https://speakerdeck.com/erniemiller/abstractions-a-tale-of-keys-and-values)
 - Links: ...
 
 #### Implementing binary protocols with Elixir by [Ole Michaelis](https://twitter.com/CodeStars)
