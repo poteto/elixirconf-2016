@@ -187,8 +187,11 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 #### Measuring your Elixir Application by [Renan Ranelli](https://twitter.com/renanranelli)
 
 - Video - Not uploaded yet
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
+- [Slides](https://speakerdeck.com/rranelli/elixirconf-2016-measuring-your-elixir-app)
 - Links:
+    + [Zed Shaw on Statistics](https://zedshaw.com/archive/programmers-need-to-learn-statistics-or-i-will-kill-them-all/)
+    + [Blog post on measuring your elixir apps](http://milhouseonsoftware.com/2016/05/08/measuring-your-elixir-application/)
+    + [Other blog post on measuring elixir apps](http://tech.footballaddicts.com/blog/gathering-metrics-in-elixir-applications)
     + [Grafana](http://grafana.org/)
     + [InfluxDB](https://influxdata.com/)
     + [collectd](https://collectd.org/)
