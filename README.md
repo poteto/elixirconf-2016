@@ -4,7 +4,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 ## Day 0
 
-#### SimAlchemy by [James Edward Gray](https://github.com/jeg2)
+#### SimAlchemy by [James Edward Gray II](https://github.com/jeg2)
 
 - Slides:
     + [Process Basics](https://github.com/sabondano/elixirconf-2016/blob/master/process_basics_slides.pdf)
