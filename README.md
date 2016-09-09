@@ -120,8 +120,23 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 #### Giving up the Object-Oriented Ghost by [Zoe Laco](https://twitter.com/morganlaco)
 
 - Video - Not uploaded yet
-- [Slides](http://slides.com/morganlaco/deck-2/live)
-- Links: ...
+- [Slides](http://slides.com/morganlaco/deck-2/)
+- Links:
+    + [From Imperative to Functional and Back-Monads are for Functional Languages](https://www.infoq.com/articles/Dont-graft-Monads-onto-Imperative-Languages)
+    + [From Imperative to Functional: How to Make the Leap](http://loup-vaillant.fr/tutorials/from-imperative-to-functional)
+    + [A Practical Introduction to Functional Programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
+    + [Elixir Getting Started Guide](http://elixir-lang.org/getting-started/recursion.html)
+    + [Destroy All Ifs](http://degoes.net/articles/destroy-all-ifs)
+    + [16 Months of Functional Programming](http://www.vasinov.com/blog/16-months-of-functional-programming/#toc-immutable-state)
+    + [Learn You Haskell](http://learnyouahaskell.com/introduction)
+    + [How to Switch from the Imperative Mindset](http://www.lispcast.com/imperative-mindset)
+    + [Functional Programming Techniques With Ruby: Part I](https://www.sitepoint.com/functional-programming-techniques-with-ruby-part-i/)
+    + [From Imperative to Functional Programming (for Absolute Beginners)](http://www.slideshare.net/alexbunardzic/from-imperative-to-functional-programming-43476397)
+    + [Transposing a Matrix: Thinking Recursively in Elixir](http://langintro.com/elixir/article2/)
+    + [Don’t Be Scared Of Functional Programming](https://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming/)
+    + [Myth of the Day: Functional Programmers Don't Use Loops](https://two-wrongs.com/myth-of-the-day-functional-programmers-dont-use-loops)
+    + [ElixirSchool](elixirschool.com)
+    + [Elixir courses at Code School (coming soon)](https://www.codeschool.com)
 
 #### Nerves: Connected beyond the Node by [Justin Schneck](https://twitter.com/mobileoverlord)
 
