@@ -358,7 +358,10 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 #### Dialyzer: Optimistic Type Checking for Erlang and Elixir by [Jason Voegele](https://twitter.com/jvoegele)
 
 - Video - Not uploaded yet
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
+- Slides:
+    + [PDF](https://github.com/jvoegele/ElixirConf2016_dialyzer/blob/master/Dialyzer.pdf)
+    + [Speakerdeck](https://speakerdeck.com/jvoegele/elixirconf-2016-dialyzer-optimistic-type-checking-for-erlang-and-elixir)
+- [Sample Code](https://github.com/jvoegele/ElixirConf2016_dialyzer/)
 - Links:
     + [Dialyzer](http://erlang.org/doc/man/dialyzer.html)
     + [Dialyxir](https://github.com/jeremyjh/dialyxir)
