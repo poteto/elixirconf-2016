@@ -338,8 +338,9 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 #### Concurrent Feature Testing with Wallaby by [Chris Keathley](https://twitter.com/ChrisKeathley)
 
 - Video - Not uploaded yet
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
-- Links: ...
+- [Slides](https://speakerdeck.com/keathley/concurrent-feature-tests-with-wallaby)
+- Links:
+  + [Wallaby](https://github.com/keathley/wallaby)
 
 #### The new calendar types in Elixir 1.3 by [Lau Taarnskov](https://twitter.com/lauT)
 
