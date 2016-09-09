@@ -135,7 +135,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
     + [Transposing a Matrix: Thinking Recursively in Elixir](http://langintro.com/elixir/article2/)
     + [Don’t Be Scared Of Functional Programming](https://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming/)
     + [Myth of the Day: Functional Programmers Don't Use Loops](https://two-wrongs.com/myth-of-the-day-functional-programmers-dont-use-loops)
-    + [ElixirSchool](elixirschool.com)
+    + [ElixirSchool](http://www.elixirschool.com)
     + [Elixir courses at Code School (coming soon)](https://www.codeschool.com)
 
 #### Nerves: Connected beyond the Node by [Justin Schneck](https://twitter.com/mobileoverlord)
