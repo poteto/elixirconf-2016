@@ -385,7 +385,9 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 - Video - Not uploaded yet
 - [Slides](https://speakerdeck.com/fhunleth/the-joy-of-connecting-elixir-to-the-physical-world)
-- Links: ...
+- Links:
+    + [elixir_ale](https://github.com/fhunleth/elixir_ale)
+    + [nerves_uart](https://github.com/nerves-project/nerves_uart)
 
 #### Elixir in Elixir by [Jay Hayes](https://twitter.com/iamvery)
 
