@@ -318,9 +318,11 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 #### Building Available and Partition Tolerant Systems with Phoenix Tracker by [Gabi Zuniga](https://twitter.com/gabiz)
 
 - Video - Not uploaded yet
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
+- [Slides](https://speakerdeck.com/gabiz/elixir-conf-2016-building-available-and-partition-tolerant-systems-with-phoenix-tracker)
 - Links:
-    + [VoiceLayer dispatch](https://github.com/VoiceLayer/dispatch)
+    + [VoiceLayer](https://voicelayer.io)
+    + [Dispatch Library](https://github.com/VoiceLayer/dispatch)
+    + [Dht Example](https://github.com/VoiceLayer/dht)
 
 #### From Front End to Full Stack with Elixir and Phoenix by [Lauren Tan](https://twitter.com/sugarpirate_)
 
