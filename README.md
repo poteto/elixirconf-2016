@@ -29,9 +29,14 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 - Links: ...
 
-#### Badge Hacking with Nerves
+#### Badge Hacking with Nerves - [Justin Schneck](https://github.com/mobileoverlord), [Frank Hunleth](https://github.com/fhunleth), [Garth Hitchens](https://github.com/ghitchens), [Chris Dutton](https://github.com/CaptChrisD), [Greg Mefford](https://github.com/gregmefford)
 
-- Links: ...
+- [Slides](http://www.slideshare.net/GregMefford/badge-hacking-with-nerves-workshop-elixirconf-2016-justin-schneck-and-frank-hunleth)
+- Links:
+    + [Nerves Project Website](http://nerves-project.org/)
+    + [Nerves on GitHub](https://github.com/nerves-project)
+    + [Getting-Started Guide and Docs on HexDocs](https://hexdocs.pm/nerves/getting-started.html)
+    + [Join us in #nerves on the Elixir-Lang Slack](https://elixir-slackin.herokuapp.com/)
 
 #### Learning Elixir through TrueStory by [Bruce Tate](https://github.com/batate) and [Eric Meadows-Jönsson](https://github.com/ericmj)
 
