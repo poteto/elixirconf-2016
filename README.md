@@ -304,6 +304,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
     + [Architecture: The Lost Years (RubyConf 2011)](https://www.youtube.com/watch?v=WpkDN78P884)
     + [Wrangling Large Rails Codebases (Rocky Mountain Ruby 2012)](https://www.youtube.com/watch?v=FElnETSIMuo)
     + [The Art of Destroying Software (Leetspeek 2014)](https://vimeo.com/108441214)
+    + [Myth: Eric Brewer On Why Banks Are BASE Not ACID - Availability Is Revenue](http://highscalability.com/blog/2013/5/1/myth-eric-brewer-on-why-banks-are-base-not-acid-availability.html)
     + [AcmeBank source](https://github.com/wojtekmach/acme_bank)
     + [ExAdmin](https://github.com/smpallen99/ex_admin)
     + [distillery](https://github.com/bitwalker/distillery)
