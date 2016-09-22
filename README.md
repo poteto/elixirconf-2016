@@ -150,7 +150,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Nerves: Connected beyond the Node by [Justin Schneck](https://twitter.com/mobileoverlord)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=yMkHVacIMo0)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
 - Links: ...
 
@@ -318,7 +318,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Leveling Up With Ecto by [Darin Wilson](https://twitter.com/darinwilson)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=mWKDAETPSUw)
 - [Slides](https://dl.dropboxusercontent.com/u/14884175/leveling_up_with_ecto.pdf)
 - Links:
     + [MusicDB example](https://github.com/darinwilson/music_db)
