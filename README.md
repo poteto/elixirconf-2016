@@ -73,7 +73,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Implementing binary protocols with Elixir by [Ole Michaelis](https://twitter.com/CodeStars)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=ZKDgucypGjw)
 - [Slides](https://slidr.io/nesQuick/implementing-binary-protocols-with-elixir)
 - Links:
     + https://github.com/nesQuick/elixir-hpack
@@ -116,7 +116,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Code Spelunking for Knowledge and Profit by [Brian Cardarella](https://twitter.com/bcardarella)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=KSvAZuG3214)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
 - Links:
     + [Ecto](https://github.com/elixir-ecto/ecto)
@@ -174,7 +174,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Migrating an invoicing system to Elixir/Erlang by [Norberto Ortigoza](https://twitter.com/hiphoox)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=n4JkW_Y9Q2U)
 - [Slides (zip)](https://dl.dropboxusercontent.com/u/3443349/ElixirConf-ErlangFactory.zip)
 - Links: ...
 
@@ -204,7 +204,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### No REST for the wicked: Building a GraphQL API by [Ben Wilson](https://twitter.com/benwilson512)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=mWKDAETPSUw)
 - [Slides](https://speakerdeck.com/benwilson512/no-rest-for-the-wicked)
 - Links:
     + [Absinthe GraphQL](https://github.com/absinthe-graphql/absinthe)
