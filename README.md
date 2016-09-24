@@ -274,7 +274,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Keynote by [José Valim](https://twitter.com/josevalim)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=apEWcpfsD2A)
 - [Slides](https://speakerdeck.com/plataformatec/genstage-and-flow-by-at-josevalim-at-elixirconf)
 - [Notes on slides](https://gist.github.com/sanmiguel/d73056adb6cffc9954327d8fcd89cd48)
 - Links:
@@ -284,7 +284,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### String Theory by [James Edward Gray II](https://twitter.com/JEG2) and [Nathan Long](https://twitter.com/sleeplessgeek)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=6yoJ8sWRiyg)
 - [Slides](https://speakerdeck.com/nathanl/string-theory)
 - Links: ...
 
