@@ -73,7 +73,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Implementing binary protocols with Elixir by [Ole Michaelis](https://twitter.com/CodeStars)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=RmKA-vdi04I)
 - [Slides](https://slidr.io/nesQuick/implementing-binary-protocols-with-elixir)
 - Links:
     + https://github.com/nesQuick/elixir-hpack
@@ -95,7 +95,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### pg2 and You: Getting Distributed with Elixir by [Eric Entin](https://twitter.com/antipax)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=_O-bLuVhcCA)
 - [Slides](https://speakerdeck.com/antipax/pg2-and-you-getting-distributed-with-elixir)
 - Links:
     + [pg2 docs](http://erlang.org/doc/man/pg2.html)
@@ -116,7 +116,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Code Spelunking for Knowledge and Profit by [Brian Cardarella](https://twitter.com/bcardarella)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=jXVQ8nvuNas)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
 - Links:
     + [Ecto](https://github.com/elixir-ecto/ecto)
@@ -156,7 +156,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Selling Food With Elixir by [Chris Bell](https://twitter.com/cjbell_)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=fkDhU-2NWJ8)
 - [Slides](https://speakerdeck.com/cjbell88/selling-food-with-elixir-elixirconf-2016)
 - Links:
     + [The app Chris built for his client](http://cavagrill.com/)
@@ -168,7 +168,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Debugging techniques in Elixir by [Erich Kist](https://twitter.com/erichkist)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=pj6zAgvVt5w)
 - [Slides](https://speakerdeck.com/erichkist/debugging-techniques-in-elixir-elixirconf-2016)
 - Links: ...
 
@@ -180,7 +180,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Building "learn to touch type" glove with Elixir and Arduino by [Tetiana Dushenkivska](https://twitter.com/tetiana12345678)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=j_7kqFgIK-M)
 - [Slides](http://goo.gl/iS5K0j)
 - [Gifs used in slides](https://github.com/tetiana12345678/touch_typing_glove_pressie_orlando_gifs)
 - Links:
@@ -192,7 +192,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Phoenix Beyond the Browser - Realtime Applications with Phoenix and Swift by [David Stump](https://twitter.com/davidstump)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=7vBc0Q-nwUI)
 - [Slides, Demo Apps, and Code Samples](https://github.com/davidstump/phoenix_beyond_the_browser)
 - Links:
     + [All resources](https://github.com/davidstump/phoenix_beyond_the_browser)
@@ -211,7 +211,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Measuring your Elixir Application by [Renan Ranelli](https://twitter.com/renanranelli)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=3KhzyDDju0Q)
 - [Slides](https://speakerdeck.com/rranelli/elixirconf-2016-measuring-your-elixir-app)
 - Links:
     + [Zed Shaw on Statistics](https://zedshaw.com/archive/programmers-need-to-learn-statistics-or-i-will-kill-them-all/)
@@ -228,7 +228,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Edgelixir: Distributed Graph Processing in Elixir by [Nathan Lapierre](https://twitter.com/n_lap)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=g77VhXrxUJY)
 - [Slides](https://speakerdeck.com/nlap/edgelixir-distributed-graph-processing-in-elixir)
 - Links:
     + [Edgelixir](https://github.com/nlap/edgelixir)
