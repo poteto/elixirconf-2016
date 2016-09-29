@@ -291,14 +291,14 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Refactoring Techniques for Elixir, Ecto, and Phoenix by [Gary Rennie](https://twitter.com/TheGazler)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=V21DAKtY31Q)
 - [Slides](http://blog.gazler.com/talks/refactoring-elixir)
 - Links:
     + [Oxo GitHub Repository](https://github.com/Gazler/oxo)
 
 #### Building umbrella project by [Wojtek Mach](https://twitter.com/wojtekmach)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=6NTmUQClHrU)
 - [Slides](https://speakerdeck.com/wojtekmach/building-an-umbrella-project)
 - Links:
     + [Umbrella apps](http://elixir-lang.org/getting-started/mix-otp/dependencies-and-umbrella-apps.html)
@@ -312,14 +312,14 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Collaborative Music with Elm and Phoenix by [Josh Adams](https://twitter.com/knewter)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=UPD8yvl3MUI)
 - [Slides](http://www.slideshare.net/JoshAdams18/collaborative-music-with-elm-and-phoenix)
 - Links:
     + [Colluder](https://github.com/knewter/colluder)
 
 #### Leveling Up With Ecto by [Darin Wilson](https://twitter.com/darinwilson)
 
-- [Video](https://www.youtube.com/watch?v=mWKDAETPSUw)
+- [Video](https://www.youtube.com/watch?v=QE7bpqpDoKo)
 - [Slides](https://dl.dropboxusercontent.com/u/14884175/leveling_up_with_ecto.pdf)
 - Links:
     + [MusicDB example](https://github.com/darinwilson/music_db)
@@ -329,7 +329,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Building Available and Partition Tolerant Systems with Phoenix Tracker by [Gabi Zuniga](https://twitter.com/gabiz)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=A3z_od6Vy1w)
 - [Slides](https://speakerdeck.com/gabiz/elixir-conf-2016-building-available-and-partition-tolerant-systems-with-phoenix-tracker)
 - Links:
     + [VoiceLayer](https://voicelayer.io)
@@ -338,7 +338,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### From Front End to Full Stack with Elixir and Phoenix by [Lauren Tan](https://twitter.com/sugarpirate_)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=r4ulu8wo_GI)
 - [Slides](https://speakerdeck.com/poteto/elixirconf-2016-from-front-end-to-full-stack-with-elixir-and-phoenix)
 - Links:
     + [ember-changeset](https://github.com/DockYard/ember-changeset)
@@ -354,7 +354,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Nerves + Phoenix Saves a Father's Sanity! by [Joel Byler](https://twitter.com/joelbyler)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=cznxe3TCevk)
 - [Slides](https://speakerdeck.com/joelbyler/nerves-plus-phoenix-saves-a-fathers-sanity)
 - Links:
     + [Project Github Repository](https://github.com/joelbyler/elixir_conf_chores)
@@ -366,27 +366,27 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Concurrent Feature Testing with Wallaby by [Chris Keathley](https://twitter.com/ChrisKeathley)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=TjOXbDJ-yw8)
 - [Slides](https://speakerdeck.com/keathley/concurrent-feature-tests-with-wallaby)
 - Links:
   + [Wallaby](https://github.com/keathley/wallaby)
 
 #### The new calendar types in Elixir 1.3 by [Lau Taarnskov](https://twitter.com/lauT)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=3gky54_qLjQ)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
 - Links: ...
 
 #### Painless Test Driven Development with Elixir and Phoenix by [Kat Tornwall](https://twitter.com/ktornwall)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=7Zr9SfQhQp8)
 - [Slides](https://github.com/ktornwall/elixir_conf_2016_demo/raw/master/slides.pdf)
 - Links:
     + [Demo App](https://github.com/ktornwall/elixir_conf_2016_demo)
 
 #### Dialyzer: Optimistic Type Checking for Erlang and Elixir by [Jason Voegele](https://twitter.com/jvoegele)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=JT0ECYZ9FaQ)
 - Slides:
     + [PDF](https://github.com/jvoegele/ElixirConf2016_dialyzer/blob/master/Dialyzer.pdf)
     + [Speakerdeck](https://speakerdeck.com/jvoegele/elixirconf-2016-dialyzer-optimistic-type-checking-for-erlang-and-elixir)
@@ -397,7 +397,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### The Joy of Connecting Elixir to the Physical World by [Frank Hunleth](https://twitter.com/fhunleth)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=SVy7gRU_-P8)
 - [Slides](https://speakerdeck.com/fhunleth/the-joy-of-connecting-elixir-to-the-physical-world)
 - Links:
     + [elixir_ale](https://github.com/fhunleth/elixir_ale)
@@ -405,14 +405,14 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Elixir in Elixir by [Jay Hayes](https://twitter.com/iamvery)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=p8MGNw045AE)
 - [Slides](https://speakerdeck.com/iamvery/elixir-in-elixir)
 - Links:
     + [Getting Started with Elixir Metaprogramming](https://www.bignerdranch.com/blog/getting-started-with-elixir-metaprogramming/)
 
 #### WebRTC and Phoenix, when μ seconds aren't fast enough by [Jason Stiebs](https://twitter.com/peregrine)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=yI5J2P9kcBQ)
 - [Slides](https://speakerdeck.com/jeregrine/webrtc-for-when-m-seconds-are-not-fast-enough)
 - Links:
     + [Demo app](https://phoenix-webrtc.herokuapp.com/)
@@ -423,7 +423,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Closing Keynote by [Boyd Multerer](https://twitter.com/BoydMulterer)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=h_NvYwveeMc)
 - [Slides](https://github.com/boydm/presentations/blob/master/elixirconf_boydm_keynote.key)
 - Links:
     + [Cloak blog post](http://blog.danielberkompas.com/2015/09/22/cloak-your-ecto-data.html)
