@@ -374,8 +374,11 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 #### The new calendar types in Elixir 1.3 by [Lau Taarnskov](https://twitter.com/lauT)
 
 - [Video](https://www.youtube.com/watch?v=3gky54_qLjQ)
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
-- Links: ...
+- [Slides](https://speakerdeck.com/lau/the-new-calendar-types-in-elixir-1-dot-3)
+- Links:
+  + [Elixir docs for the built in Calendar module](http://elixir-lang.org/docs/stable/elixir/Calendar.html)
+  + [Calendar library](https://github.com/lau/calendar)
+  + [Calecto](https://github.com/lau/calecto)
 
 #### Painless Test Driven Development with Elixir and Phoenix by [Kat Tornwall](https://twitter.com/ktornwall)
 
