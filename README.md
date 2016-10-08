@@ -108,7 +108,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 #### The future of deployment in Elixir by [Paul Schoenfelder](https://twitter.com/gotbones)
 
 - Video - Not uploaded yet
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
+- [Slides](http://slides.com/paulschoenfelder/elixirconf2016#/)
 - Links:
     + [Distillery](https://github.com/bitwalker/distillery)
     + [edeliver](https://github.com/boldpoker/edeliver)
