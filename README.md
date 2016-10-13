@@ -174,7 +174,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Migrating an invoicing system to Elixir/Erlang by [Norberto Ortigoza](https://twitter.com/hiphoox)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=MmJaGGT28Js)
 - [Slides (zip)](https://dl.dropboxusercontent.com/u/3443349/ElixirConf-ErlangFactory.zip)
 - Links: ...
 
