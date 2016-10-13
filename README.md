@@ -150,7 +150,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Nerves: Connected beyond the Node by [Justin Schneck](https://twitter.com/mobileoverlord)
 
-- [Video](https://www.youtube.com/watch?v=yMkHVacIMo0)
+- [Video](https://www.youtube.com/watch?v=VhAIDmtKhO4)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
 - Links: ...
 
