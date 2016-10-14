@@ -53,7 +53,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Opening Keynote by [Chris McCord](https://twitter.com/chris_mccord)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=qPiZTxUAaVM)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
 - Links:
     + [2m connections in Phoenix](http://www.phoenixframework.org/blog/the-road-to-2-million-websocket-connections)
@@ -67,7 +67,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Abstractions: A Tale of Keys and Values by [Ernie Miller](https://github.com/erniemiller)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=eKbLOlyt11k)
 - [Slides](https://speakerdeck.com/erniemiller/abstractions-a-tale-of-keys-and-values)
 - Links: ...
 
@@ -107,7 +107,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### The future of deployment in Elixir by [Paul Schoenfelder](https://twitter.com/gotbones)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=0fuUtQFinZk)
 - [Slides](http://slides.com/paulschoenfelder/elixirconf2016#/)
 - Links:
     + [Distillery](https://github.com/bitwalker/distillery)
@@ -150,7 +150,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Nerves: Connected beyond the Node by [Justin Schneck](https://twitter.com/mobileoverlord)
 
-- [Video](https://www.youtube.com/watch?v=yMkHVacIMo0)
+- [Video](https://www.youtube.com/watch?v=VhAIDmtKhO4)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/poteto/elixirconf-2016/pulls) if you find it!
 - Links: ...
 
@@ -174,7 +174,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Migrating an invoicing system to Elixir/Erlang by [Norberto Ortigoza](https://twitter.com/hiphoox)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=MmJaGGT28Js)
 - [Slides (zip)](https://dl.dropboxusercontent.com/u/3443349/ElixirConf-ErlangFactory.zip)
 - Links: ...
 
@@ -204,7 +204,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### No REST for the wicked: Building a GraphQL API by [Ben Wilson](https://twitter.com/benwilson512)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=tlxjhTc_u4o)
 - [Slides](https://speakerdeck.com/benwilson512/no-rest-for-the-wicked)
 - Links:
     + [Absinthe GraphQL](https://github.com/absinthe-graphql/absinthe)
