@@ -170,7 +170,8 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 - [Video](https://www.youtube.com/watch?v=pj6zAgvVt5w)
 - [Slides](https://speakerdeck.com/erichkist/debugging-techniques-in-elixir-elixirconf-2016)
-- Links: ...
+- Links:
+  + [Stuff Goes Bad: ERLANG IN ANGER](https://www.erlang-in-anger.com/)
 
 #### Migrating an invoicing system to Elixir/Erlang by [Norberto Ortigoza](https://twitter.com/hiphoox)
 
