@@ -288,7 +288,11 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 - [Video](https://www.youtube.com/watch?v=6yoJ8sWRiyg)
 - [Slides](https://speakerdeck.com/nathanl/string-theory)
-- Links: ...
+- Links:
+    + [Elixir and Unicode, Part 1: Unicode and UTF-8 Explained](https://www.bignerdranch.com/blog/unicode-and-utf-8-explained/)
+    + [Elixir and Unicode, Part 2: Working with Unicode Strings](https://www.bignerdranch.com/blog/elixir-and-unicode-part-2-working-with-unicode-strings/)
+    + [Elixir and IO Lists, Part 1: Building Output Efficiently](https://www.bignerdranch.com/blog/elixir-and-io-lists-part-1-building-output-efficiently/)
+    + [Elixir and IO Lists, Part 2: IO Lists in Phoenix](https://www.bignerdranch.com/blog/elixir-and-io-lists-part-2-io-lists-in-phoenix/)
 
 #### Refactoring Techniques for Elixir, Ecto, and Phoenix by [Gary Rennie](https://twitter.com/TheGazler)
 
