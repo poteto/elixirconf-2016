@@ -129,7 +129,7 @@ A collection of links that cover what happened during ElixirConf 2016. Please fe
 
 #### Giving up the Object-Oriented Ghost by [Zoe Laco](https://twitter.com/morganlaco)
 
-- Video - Not uploaded yet
+- [Video](https://www.youtube.com/watch?v=_VpZ6gQsyDY)
 - [Slides](http://slides.com/morganlaco/deck-2/)
 - Links:
     + [From Imperative to Functional and Back-Monads are for Functional Languages](https://www.infoq.com/articles/Dont-graft-Monads-onto-Imperative-Languages)
